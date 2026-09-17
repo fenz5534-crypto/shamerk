@@ -1,5 +1,5 @@
 vless://424a975e-5d15-4901-b02c-78fc077cd0c4@188.68.218.122:443?security=reality&type=grpc&serviceName=streaming&sni=max.ru&fp=firefox&pbk=0TK3jhL8U7cKtwt8dolBOY987bVD15vL08x8pMEM428&sid=4640a2f00a8b7e06#Обход%20бс%2Fshamerk%E2%9A%A1%EF%B8%8F
 vless://ed170dc9-b1b3-48d7-97f1-a92f9dc50362@bs1.whitehost.org:443?security=tls&type=tcp&flow=xtls-rprx-vision&sni=wde4.whitedeu.org&fp=qq#Обход%20бс%20резерв%2Fshamerk
-vless://ed170dc9-b1b3-48d7-97f1-a92f9dc50362@bs1.whitehost.org:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2F&mode=auto&alpn=h2&sni=wde4.whitedeu.org&fp=ios#Обход%20бс%20резерв%202%2Fshamerk
+vless://ed170dc9-b1b3-48d7-97f1-a92f9dc50362@bs1.whitehost.org:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2F&mode=auto&alpn=h2&sni=wde4.whitedeu.org&fp=ios#Обход%20бс%20резерв%2Fshamerk
 vless://a06164d0-9d9d-473d-988e-5798f4386f38@wx-smart-001.chinaflowers.org:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2F&mode=auto&alpn=h2&sni=wx-smart-001.chinaflowers.org&fp=qq#Германия%2Fshamerk
 vless://a06164d0-9d9d-473d-988e-5798f4386f38@deu392.worldunbound.org:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2F&mode=auto&alpn=h2&sni=deu392.worldunbound.org&fp=ios#Германия%20Резерв%2Fshamerk
